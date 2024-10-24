@@ -1,3 +1,14 @@
+# Encontrei esse teste no google e achei muito interessante:
+
+
+Objetivo: O objetivo deste teste é avaliar suas habilidades em desenvolvimento frontend, incluindo HTML, CSS, JavaScript e, se possível, Angular. Você será solicitado a criar uma aplicação web que utiliza uma fake API de loja para exibir uma lista de produtos e seus detalhes. Será avaliado o layout, a organização e estrutura do código, seu conhecimento do framework escolhido (Angular, se optar por utilizá-lo) e sua capacidade de criar uma experiência de usuário intuitiva e agradável. 
+
+Requisitos Básicos: Desenvolver uma página de listagem de produtos, utilizando HTML, CSS e JavaScript. Utilizar a API de loja fake fornecida pelo serviço https://dummyjson.com/. Criar uma página de detalhes para exibir informações completas de cada produto. 
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
